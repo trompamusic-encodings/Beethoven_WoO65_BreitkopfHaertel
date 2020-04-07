@@ -2,7 +2,7 @@
 
 # DRAFT encoding template
 
-This repository contains an [MEI](https://music-encoding.org) encoding of [24 Variations on 'Venni Amore' by Vincenzo Righini (WoO 65) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Plate B.178.](https://imslp.org/wiki/Special:ReverseLookup/53053) 
+This repository contains an [MEI](https://music-encoding.org) encoding of [24 Variations on 'Vieni Amore' by Vincenzo Righini (WoO 65) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Plate B.178.](https://imslp.org/wiki/Special:ReverseLookup/53053) 
 
 **Note: The MEI header still needs to be FRBRized. **
 
