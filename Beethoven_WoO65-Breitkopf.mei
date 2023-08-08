@@ -114,7 +114,7 @@
                                  <rest xml:id="rest-0000001111031475" dur="8" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000280043917" place="above" staff="1" tstamp="1.000000" midi.bpm="108.000000">Allegretto.</tempo>
+                           <tempo xml:id="tempo-0000000280043917" place="above" staff="1" tstamp="1.000000" midi.bpm="108">Allegretto.</tempo>
                            <tempo xml:id="tempo-0000000912956354" place="above" staff="1" tstamp="1.000000">
                               <rend xml:id="rend-0000000286783863" fontsize="120.00%" fontstyle="normal" fontweight="bold">Tema.</rend>
                            </tempo>
@@ -10283,7 +10283,7 @@
                               </layer>
                            </staff>
                            <dynam xml:id="dynam-0000000941866801" place="below" staff="1" tstamp="1.000000" vgrp="40">p</dynam>
-                           <tempo xml:id="tempo-0000001565557924" place="above" staff="1" startid="#chord-0000000382704730" midi.bpm="70.000000">
+                           <tempo xml:id="tempo-0000001565557924" place="above" staff="1" startid="#chord-0000000382704730" midi.bpm="70">
                               <rend xml:id="rend-0000001144538254" fontweight="bold">Adagio.</rend>
                            </tempo>
                            <slur xml:id="slur-0000000611413308" startid="#chord-0000001603461873" endid="#chord-0000000287036711" curvedir="above" />
@@ -10428,7 +10428,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000002079125509" place="above" staff="1" startid="#chord-0000001358612229" midi.bpm="116.000000">
+                           <tempo xml:id="tempo-0000002079125509" place="above" staff="1" startid="#chord-0000001358612229" midi.bpm="116">
                               <rend xml:id="rend-0000001558846951" fontweight="bold">Tempo I.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000240212057" place="below" staff="1" tstamp="1.000000" vgrp="40">p</dynam>
@@ -10572,7 +10572,7 @@
                                  <rest xml:id="rest-0000001030334431" dur="8" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000441148786" place="above" staff="1" startid="#chord-0000000010634840" midi.bpm="70.000000">
+                           <tempo xml:id="tempo-0000000441148786" place="above" staff="1" startid="#chord-0000000010634840" midi.bpm="70">
                               <rend xml:id="rend-0000001186448169" fontweight="bold">Adagio.</rend>
                            </tempo>
                         </measure>
@@ -10738,7 +10738,7 @@
                               </layer>
                            </staff>
                            <dynam xml:id="dynam-0000000510141116" place="below" staff="1" tstamp="1.000000" vgrp="40">p</dynam>
-                           <tempo xml:id="tempo-0000000084882286" place="above" staff="1" startid="#note-0000001442816851" midi.bpm="116.000000">
+                           <tempo xml:id="tempo-0000000084882286" place="above" staff="1" startid="#note-0000001442816851" midi.bpm="116">
                               <rend xml:id="rend-0000000328512698" fontweight="bold">Tempo I.</rend>
                            </tempo>
                            <slur xml:id="slur-0000000037472833" startid="#note-0000001442816851" endid="#note-0000001220368246" curvedir="above" />
@@ -10890,7 +10890,7 @@
                                  <rest xml:id="rest-0000000561948880" dur="8" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000064303140" place="above" staff="1" startid="#chord-0000000547024118" midi.bpm="70.000000">
+                           <tempo xml:id="tempo-0000000064303140" place="above" staff="1" startid="#chord-0000000547024118" midi.bpm="70">
                               <rend xml:id="rend-0000001731430936" fontweight="bold">Adagio.</rend>
                            </tempo>
                            <slur xml:id="slur-0000002117873920" startid="#note-0000001673150211" endid="#note-0000000565524415" curvedir="above" />
@@ -11033,7 +11033,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000669557863" place="above" staff="1" startid="#note-0000000419473960" midi.bpm="116.000000">
+                           <tempo xml:id="tempo-0000000669557863" place="above" staff="1" startid="#note-0000000419473960" midi.bpm="116">
                               <rend xml:id="rend-0000000714865367" fontweight="bold">Tempo I.</rend>
                            </tempo>
                            <slur xml:id="slur-0000002057516266" startid="#note-0000000419473960" endid="#note-0000001499429948" curvedir="above" />
@@ -11176,7 +11176,7 @@
                                  <rest xml:id="rest-0000001472672108" dur="8" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000672429920" place="above" staff="1" startid="#chord-0000001786031990" midi.bpm="70.000000">
+                           <tempo xml:id="tempo-0000000672429920" place="above" staff="1" startid="#chord-0000001786031990" midi.bpm="70">
                               <rend xml:id="rend-0000000768984312" fontweight="bold">Adagio.</rend>
                            </tempo>
                         </measure>
@@ -17054,7 +17054,7 @@
                               <note xml:id="note-0000001224219428" dur="4" oct="2" pname="d" stem.dir="down" />
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000001483943987" place="above" staff="1" tstamp="1.000000" midi.bpm="70.000000">
+                        <tempo xml:id="tempo-0000001483943987" place="above" staff="1" tstamp="1.000000" midi.bpm="70">
                            <rend xml:id="rend-0000001918996898" fontweight="bold">Adagio sostenuto.</rend>
                         </tempo>
                         <tempo xml:id="tempo-0000000963360020" place="above" staff="1" tstamp="0.000000">
@@ -19731,7 +19731,7 @@
                                  <note xml:id="note-0000001129819289" dur="2" oct="3" pname="d" stem.dir="down" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000297315998" place="above" staff="1" tstamp="1.000000" midi.bpm="152.000000">
+                           <tempo xml:id="tempo-0000000297315998" place="above" staff="1" tstamp="1.000000" midi.bpm="152">
                               <rend xml:id="rend-0000001943015464" fontweight="bold">Allegro.</rend>
                            </tempo>
                            <tempo xml:id="tempo-0000000444562110" place="above" staff="1" tstamp="0.000000">
@@ -21028,7 +21028,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000001579383729" place="above" staff="1" tstamp="1.000000" midi.bpm="132.000000">
+                           <tempo xml:id="tempo-0000001579383729" place="above" staff="1" tstamp="1.000000" midi.bpm="132">
                               <rend xml:id="rend-0000001804456383" fontweight="bold">Un poco meno Allegro.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000000903313320" place="below" staff="1" tstamp="1.000000" vgrp="40">pp</dynam>
@@ -22247,7 +22247,7 @@
                                  <rest xml:id="rest-0000001478743321" dur="4" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000264998934" place="above" staff="1" tstamp="1.000000" midi.bpm="160.000000">
+                           <tempo xml:id="tempo-0000000264998934" place="above" staff="1" tstamp="1.000000" midi.bpm="184">
                               <rend xml:id="rend-0000002103483507" fontweight="bold">Allegro.</rend>
                            </tempo>
                            <dir xml:id="dir-0000001946501394" place="below" staff="1" tstamp="1.000000" vgrp="40">
@@ -22644,7 +22644,7 @@
                                  <mRest xml:id="mrest-0000000618824155" />
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000616727399" place="above" staff="1" tstamp="1.000000" midi.bpm="192.000000">
+                           <tempo xml:id="tempo-0000000616727399" place="above" staff="1" tstamp="1.000000" midi.bpm="192">
                               <rend xml:id="rend-0000001581314571" fontweight="bold">Presto assai.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000001291974726" place="below" staff="1" tstamp="2.000000" vgrp="40">f</dynam>
