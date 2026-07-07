@@ -2416,8 +2416,8 @@
                      </section>
                   </section>
                   <section xml:id="Var-IV">
-                     <expansion plist="#Var-IV-A  #Var-IV-A1 #Var-IV-A #Var-IV-A2 #Var-IV-B #Var-IV-B" xml:id="expansion-Var-IV-default" />
-                     <expansion plist="#Var-IV-A  #Var-IV-A2 #Var-IV-B" xml:id="expansion-Var-IV-minimal" />
+                     <expansion plist="#Var-IV-A #Var-IV-A1 #Var-IV-A #Var-IV-A2 #Var-IV-B #Var-IV-B" xml:id="expansion-Var-IV-default" />
+                     <expansion plist="#Var-IV-A #Var-IV-A2 #Var-IV-B" xml:id="expansion-Var-IV-minimal" />
                      <section xml:id="Var-IV-A">
                         <scoreDef xml:id="scoredef-0000001325329686" meter.count="2" meter.unit="4" />
                         <measure xml:id="measure-0000000757457442" n="65">
@@ -2966,8 +2966,8 @@
                      </section>
                   </section>
                   <section xml:id="Var-V">
-                     <expansion plist="#Var-V-A  #Var-V-A1 #Var-V-A #Var-V-A2 #Var-V-B #Var-V-B" xml:id="expansion-Var-V-default" />
-                     <expansion plist="#Var-V-A  #Var-V-A2 #Var-V-B" xml:id="expansion-Var-V-minimal" />
+                     <expansion plist="#Var-V-A #Var-V-A1 #Var-V-A #Var-V-A2 #Var-V-B #Var-V-B" xml:id="expansion-Var-V-default" />
+                     <expansion plist="#Var-V-A #Var-V-A2 #Var-V-B" xml:id="expansion-Var-V-minimal" />
                      <section xml:id="Var-V-A">
                         <scoreDef xml:id="scoredef-0000001847594026" meter.count="2" meter.unit="4" />
                         <measure xml:id="measure-0000001887974969" n="81">
