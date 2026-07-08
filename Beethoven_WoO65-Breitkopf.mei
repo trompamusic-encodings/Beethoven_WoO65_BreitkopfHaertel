@@ -19690,7 +19690,7 @@
                         <slur xml:id="slur-0000001480018547" startid="#note-0000001834470627" endid="#note-0000001739475243" curvedir="below" />
                         <slur xml:id="slur-0000000727235258" startid="#note-0000000475742777" endid="#note-0000001544132957" curvedir="above" />
                         <dir xml:id="dir-0000002050217951" place="below" staff="2" tstamp="5.000000">
-                           <rend xml:id="rend-0000000516276818" halign="right" fontstyle="normal">attacca subito l'Allegro</rend>
+                           <rend xml:id="rend-0000000516276818" halign="right" fontstyle="normal">attacca subito l’Allegro</rend>
                         </dir>
                         <fermata xml:id="fermata-0000001419154092" staff="2" startid="#note-0000000743468734" form="inv" place="below" />
                      </measure>
