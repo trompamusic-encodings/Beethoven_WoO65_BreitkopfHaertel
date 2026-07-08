@@ -37,7 +37,7 @@
                      <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
                      </rend>
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr>
-                                    178.<lb xml:id="lb-0000000931946807" />
+                        178.<lb xml:id="lb-0000000931946807" />
                      </rend>
                      <rend xml:id="rend-0000000027109546" halign="center" valign="middle" fontweight="bold">
                         <rend xml:id="rend-0000002081006402" fontsize="200.00%">24 VARIATIONEN</rend>
@@ -779,8 +779,8 @@
                                  <note xml:id="note-0000001539168342" dur="2" oct="2" pname="a" stem.dir="down" />
                               </layer>
                            </staff>
-                           <tie xml:id="tie-0000000604145036" tstamp="1.000000" endid="#note-0000001446192691" curvedir="above" />
-                           <tie xml:id="tie-0000000562937036" tstamp="1.000000" endid="#note-0000001610056282" curvedir="below" />
+                           <tie xml:id="tie-0000000604145036" tstamp="0" endid="#note-0000001446192691" staff="1" curvedir="above" />
+                           <tie xml:id="tie-0000000562937036" tstamp="0" endid="#note-0000001610056282" staff="1" curvedir="below" />
                            <slur xml:id="slur-0000001617299017" tstamp="1.000000" endid="#note-0000000258320644" curvedir="below" />
                         </measure>
                      </ending>
